@@ -1,0 +1,19 @@
+{
+  "name": "kittawee-profile",
+  "version": "0.0.1",
+  "description": "Kittawee Kongpan profile by VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "Kittawee Kongpan",
+    "email": "kittawee9469@gmail.com"
+  },
+  "repository": "https://github.com/kittaweek/profile.git/",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
