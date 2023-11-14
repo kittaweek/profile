@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# VuePress
+run
+.basement
+config.local.js
+basement_dist
+
+# Mac OS X
+.DS_Store
