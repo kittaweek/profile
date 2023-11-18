@@ -1,2 +1,5 @@
+---
+sidebar: auto
+---
 # Archive
 

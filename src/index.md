@@ -1,6 +1,10 @@
 ---
+
 home: true
-# heroImage: https://v1.vuepress.vuejs.org/hero.png
+# sidebar: auto
+
+# heroImage: <https://v1.vuepress.vuejs.org/hero.png>
+
 # tagline: asdasd
 # actionText: Quick Start →
 # actionLink: /guide/
