@@ -19,7 +19,3 @@ externalLinks: {
   attributes: { target: '_blank', rel: 'noopener noreferrer' },
   symbol (or call it icon?): true | false
 }
----
-::: slot footer
-Kittawee Kongpan | © 2023-present | Powered by [Vuepress](https://vuepress.vuejs.org)
-:::

@@ -1510,7 +1510,7 @@
     toml "^3.0.0"
     upath "^1.1.0"
 
-"@vuepress/theme-default@1.9.10":
+"@vuepress/theme-default@1.9.10", "@vuepress/theme-default@^1.9.10":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.9.10.tgz#6e916e2164ab3d9cc9567610e4ada9c3a568f206"
   integrity sha512-XnXn9t+pYCIhWi3cZXJlighuy93FFm5yXdISAAlFlcNkshuGtqamkjacHV8q/QZMfOhSIs6wX7Hj88u2IsT5mw==
