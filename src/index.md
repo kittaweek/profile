@@ -1,7 +1,7 @@
 ---
 
 home: true
-# sidebar: auto
+sidebar: auto
 
 # heroImage: <https://v1.vuepress.vuejs.org/hero.png>
 
@@ -19,3 +19,6 @@ externalLinks: {
   attributes: { target: '_blank', rel: 'noopener noreferrer' },
   symbol (or call it icon?): true | false
 }
+footer : Kittawee Kongpan | © 2023-present | Powered by <a href="https://vuepress.vuejs.org">Vuepress</a>
+footerHtml : True
+---
