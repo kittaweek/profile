@@ -14,7 +14,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-rc.0"
+    "vuepress": "^2.0.0-rc.0",
+    "vuepress-plugin-iconify": "^0.5.0"
   },
   "dependencies": {}
 }

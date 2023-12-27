@@ -3,18 +3,6 @@
 home: true
 sidebar: auto
 
-# heroImage: <https://v1.vuepress.vuejs.org/hero.png>
-
-# tagline: asdasd
-# actionText: Quick Start →
-# actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
 externalLinks: {
   attributes: { target: '_blank', rel: 'noopener noreferrer' },
   symbol (or call it icon?): true | false
@@ -22,3 +10,35 @@ externalLinks: {
 footer : Kittawee Kongpan | © 2023-present | Powered by <a href="https://vuepress.vuejs.org">Vuepress</a>
 footerHtml : True
 ---
+<div class="social-icons">
+   <a href="https://www.linkedin.com/in/kittawee-kongpan-360887249/" target="_blank">
+      <vp-icon
+         align="center"
+         icon="lucide:linkedin"
+         />
+   </a>
+   <a href="https://github.com/kittaweek" target="_blank">
+      <vp-icon icon="mingcute:github-line"/>
+   </a>
+   <a href="mailto:kittawee9469@gmail.com" target="_blank">
+      <vp-icon icon="basil:gmail-outline"/>
+   </a>
+</div>
+
+<style>
+   .social-icons {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin: 20px;
+   min-height:50vh
+   }
+   svg {
+   width: 36px;
+   height: 36px;
+   }
+   .social-icons a {
+    color: #fff;
+    margin:5px
+   }
+</style>

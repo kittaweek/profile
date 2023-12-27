@@ -1,5 +1,6 @@
 const { description } = require('../../package')
 import { defaultTheme } from "@vuepress/theme-default";
+import { iconifyPlugin } from 'vuepress-plugin-iconify'
 
 export default {
   /**
@@ -27,6 +28,7 @@ export default {
   ],
 
   theme: defaultTheme({
+    contributors: false,
     navbar: [
       {
         text: "About",
@@ -49,5 +51,7 @@ export default {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: [
+    iconifyPlugin()
+  ],
 };
