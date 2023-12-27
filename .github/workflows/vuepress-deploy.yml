@@ -1,20 +1,30 @@
 name: Build and Deploy
 on:
   push:
-    branches: ["master"]  
+    branches: ["dev"]  
 jobs:
-  build-and-deploy:
+  docs:
     runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@master
 
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@master
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: kittaweek/profile
-        TARGET_BRANCH: gh_pages
-        BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: src/.vuepress/dist/
-        CNAME: https://devsiam.com
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - name: Run install
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install # will run `yarn install` command          
+      - name: Build VuePress site
+        run: yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: src/.vuepress/dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
