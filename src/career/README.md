@@ -1,3 +1,6 @@
+---
+sidebar: auto
+---
 # Kittawee Kongpan
 Software Engineer | Data Engineer | Data Science
 
