@@ -33,7 +33,7 @@ footerHtml : True
    margin: 20px;
    min-height:50vh
    }
-   svg {
+   .social-icons svg {
    width: 36px;
    height: 36px;
    }
