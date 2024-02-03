@@ -83,9 +83,9 @@ Software Engineer | Data Engineer | Data Science
 - [Coursera Certificates](https://www.coursera.org/user/8ce46ab5a5f2b84264bbedb51bfac4fd)
   - [Preparing for Google Cloud Certification: Cloud Data Engineer, Dec 2023](https://www.coursera.org/account/accomplishments/specialization/RKHVBD92QSS2)
   - [Preparing for Google Cloud Certification: Cloud Architect, Oct 2023](https://www.coursera.org/account/accomplishments/specialization/945Q7YE77PTM)
-- [AI Auto Chatbot Certificate (SPU,Thailand), Sep 2020](/images/certificates/03-AI-Auto-Chatbot-Certificate.png)
-- [Big Data Analytics Certificate (SIT KMUTT ,Thailand), Apr 2020](/images/certificates/02-Big-Data-Certificate.jpg)
-- [System Analyst  Certificate (SIPA,Thailand), Jun 2015](/images/certificates/01-System-Analyst-Certificate.jpg)
+- [AI Auto Chatbot Certificate (SPU,Thailand), Sep 2020](03-ai-auto-chatbot-certificate/)
+- [Big Data Analytics Certificate (SIT KMUTT ,Thailand), Apr 2020](02-big-data-certificate/)
+- [System Analyst  Certificate (SIPA,Thailand), Jun 2015](01-system-analyst-certificate/)
 
 ----------------------------------------------------------------
 
