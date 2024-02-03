@@ -1,21 +1,20 @@
 {
   "name": "kittawee-profile",
   "version": "0.0.1",
-  "description": "Kittawee Kongpan profile by VuePress",
+  "description": "Kittawee Kongpan profile by VitePress",
   "main": "index.js",
   "authors": {
     "name": "Kittawee Kongpan",
     "email": "kittawee9469@gmail.com"
   },
+  "license": "MIT",
   "repository": "https://github.com/kittaweek/profile.git/",
   "scripts": {
-    "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "vitepress dev site --port 8080",
+    "build": "vitepress build site",
+    "preview": "vitepress preview site"
   },
-  "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-rc.0",
-    "vuepress-plugin-iconify": "^0.5.0"
-  },
-  "dependencies": {}
+    "vitepress": "^1.0.0-rc.41"
+  }
 }

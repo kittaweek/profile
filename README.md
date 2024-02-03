@@ -1,5 +1,5 @@
 # profile
-Kittawee Kongpan's profile by VuePress
+Kittawee Kongpan's profile by VitePress
 
 ## Setup
 
