@@ -1,5 +1,11 @@
 ---
 sidebar: auto
+prev:
+  text: 'Homepage'
+  link: '/'
+next:
+  text: 'Portfolio'
+  link: '/portfolio/'
 ---
 # Kittawee Kongpan
 Software Engineer | Data Engineer | Data Science

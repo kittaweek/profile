@@ -1,5 +1,11 @@
 ---
 sidebar: false
+prev:
+  text: 'Homepage'
+  link: '/'
+next:
+  text: 'Career'
+  link: '/career/'
 ---
 # About
 
