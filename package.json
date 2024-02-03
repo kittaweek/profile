@@ -7,13 +7,13 @@
     "name": "Kittawee Kongpan",
     "email": "kittawee9469@gmail.com"
   },
+  "license": "MIT",
   "repository": "https://github.com/kittaweek/profile.git/",
   "scripts": {
-    "dev": "vitepress dev site",
+    "dev": "vitepress dev site --port 8080",
     "build": "vitepress build site",
     "preview": "vitepress preview site"
   },
-  "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.41"
   }
