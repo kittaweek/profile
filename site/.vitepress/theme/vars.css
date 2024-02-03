@@ -1,0 +1,29 @@
+/* 
+* Reference : 
+* https://github.com/Zhengqbbb/cz-git/blob/5277b1a820d5decb36f5bd736ec469a0e88b33f4/docs/.vitepress/theme/style/vars.css#L54
+*/
+:root {
+  --c-brand: darkorange;
+  --c-brand-light: orange;
+  --vp-c-brand-1:darkorange;
+  /* --font-family-base: Georgia, serif; */
+}
+.dark{
+  --vp-c-brand-1:orange;
+
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(270deg, darkorange 30%, orange);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #ffffff 30%, darkorange);
+  --vp-home-hero-image-filter: blur(30px);
+}
+
+.dark {
+  --vp-home-hero-name-background: -webkit-linear-gradient(270deg, orange 30%, #e0cdee);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #fff1f1 30%, orange);
+}
