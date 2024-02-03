@@ -24,7 +24,6 @@ Software Engineer | Data Engineer | Data Science
 - Secondary Demonstration School of Bansomdejchaopraya Rajabhat University,Sciences & Mathematics Program (2003-2008)
     - Student President (2007)
 
-----------------------------------------------------------------
 
 ## Work Experiences
 
@@ -82,7 +81,6 @@ Software Engineer | Data Engineer | Data Science
     - Products Management
     - Approves Management
 
-----------------------------------------------------------------
 
 ## Certificates
 
@@ -94,7 +92,6 @@ Software Engineer | Data Engineer | Data Science
 - [Big Data Analytics Certificate (SIT KMUTT ,Thailand), Apr 2020](02-big-data-certificate/)
 - [System Analyst  Certificate (SIPA,Thailand), Jun 2015](01-system-analyst-certificate/)
 
-----------------------------------------------------------------
 
 ## Skills
 | Programming                                | Level                          |
