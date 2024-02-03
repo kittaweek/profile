@@ -1,5 +1,6 @@
 ---
-sidebar: auto
+sidebar: false
+
 prev:
   text: 'Homepage'
   link: '/'
