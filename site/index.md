@@ -16,22 +16,22 @@ hero:
 
 features:
   - icon: 
-      src: /images/linkedIn.svg
+      src: /assets/linkedIn.svg
       alt: LinkedIn
     title: LinkedIn
     link: https://www.linkedin.com/in/kittawee-kongpan-360887249/
   - icon: 
-      src: /images/github.svg
+      src: /assets/github.svg
       alt: Github
     title: Github
     link: https://github.com/kittaweek
   - icon:
-      src: /images/google-cloud.svg
+      src: /assets/google-cloud.svg
       alt: Google Cloud Skillboot
     title: Google Cloud Skillboot
     link: https://www.cloudskillsboost.google/public_profiles/cdd5d465-cc8a-49ab-9368-9be21c2d8569
   - icon: 
-      src: /images/coursera.svg
+      src: /assets/coursera.svg
       height: 200px
       alt: Cousera
     title: Cousera certificates
