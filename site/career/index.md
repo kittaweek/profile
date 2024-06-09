@@ -9,78 +9,96 @@ next:
   link: '/portfolio/'
 ---
 # Kittawee Kongpan
+
 Software Engineer | Data Engineer | Data Science
 
 ## Education
 
 ### Bachelor Degree
-- Bachelor of Science : King Mongkut's University of Technology Thonburi, Media Technology (2009-2012)
-  - **Thesis** : License Plate detection Based on Template Matching Algorithm
+
+- Bachelor of Science : King Mongkut's University of Technology Thonburi, Media technology (2009-2012)
+  - **Thesis** : License plate detection based on template matching algorithm.
     - International Conference on Computer and Communication Technologies (ICCCT’2012)
-- Student Committee of Student Council (2009-2011)
-- Student Committee of Faculty (2008-2009)
+- Secretary of KMUTT student council. (2009 - 2011)
+- Secretary of student union of faculty. (2008 - 2009)
 
 ### Secondary School
-- Secondary Demonstration School of Bansomdejchaopraya Rajabhat University,Sciences & Mathematics Program (2003-2008)
-    - Student President (2007)
 
+- Secondary Demonstration School of Bansomdejchaopraya Rajabhat University,Sciences & mathematics program (2003-2008)
+  - Student president (2007)
 
 ## Work Experiences
 
-### Data Engineer & Data Science (Python), Baania Co.,Ltd.
-**Oct 2022-Present**
+### Baania Co.,Ltd. (Oct 2022 - Apr 2024)
 
-- Collect & explore property data (Scrapy, Beautiful soup)
-- Developer machine learning model for estimate property price (Spark, Polars, Pandas, Scikit-learn)
-- Visualization property data (Matplotlib)
+- **Data Engineer & Data Science (Python)**
+  - Developed & improve scraping thailand property data (31 websites) and for improve quantity of data to find best confidence of model. (Python and Scrapy)
+  - Transform all scraping data to same data structure by defined types, convert text to another types, compare similar of data and convert data error to correct data.
+  - Reduce noise & error of data, fill none to correct data, remove missing data, filter outliner, create statistics parameters and delivers data, easy to use for create data model.
+  - Used linear regression, decision tree, random forest model (Scikit-learn) and experiment, hyper parameter tuning, visualization model (MLflow, Matplotlib, Seaborn) to find best solutions of machine learning model and delivers to customers.
+    - Find best real estate for buyer and agency.
+    - Approve home loan and refinance home for banks.
+    - Delivers data to end users for real estate entrepreneurs.
+  - Research and estimate possibility to open new sector of data by confidence and accuracy for increase sector of real estate information services.
+  - Develop process of data pipeline model for automate data workflow. (Jupyter, Dagster, Spark, Polars, Pandas)
+- **Software Engineer (VueJS)**
+  - Developed & implement web application support for user friendly and improve quantity of visitors.
+  - Refactor structure code from 6,000 rows to less than 1,000 rows for easy to implement.
 
-### Senior Software Engineer (Node,React), Soilfish Co., Ltd.
-**Mar 2021-Oct 2022**
+### Soilfish Co., Ltd. (Mar 2021 - Oct 2022)
 
-- Cloud pricing calculator
-- Administrators cloud system
-- Content Management System (CMS)
+- **Project Manager**
+  - Manage Agile team and delivers project to customer.
+- **Senior Software Engineer (Node,React)**
+  - Developed web application support for user requirement.(React,NestJS, Laravel, Wordpress)
+    - Content Management System. (CMS)
+    - Pricing calculator.
+    - Administrators system.
 
-### Software Engineer (PHP), ZMyhome Co.,Ltd.
-**Sep 2020-Mar 2021**
+### ZMyhome Co.,Ltd. (Sep 2020 - Mar 2021)
 
-- Customer Relationship Management (Yii2)
-- Content Management System (Yii2)
-- Line Api & send mail notifications
-- Agent information sheet
+- **Senior Software Engineer (PHP,Yii2)**
+  - Developed UX/UI web application support for user friendly and improve quantity of visitors.
+  - Developed Agent Information Sheet support for agent and buyer easy to compare real estate.
+  - Developed administrator web application easy to manage real estate for seller, agent and entrepreneur.
+    - Customer Relationship Management
+    - Property Management System
+  - Developed & maintainance real estate advertising tools support for seller, agent and entrepreneur by line api and email notifications.
 
-### Software Engineer (Magento 2, PHP & Node), DHA Siamwalla Ltd.
-**Nov 2018-Aug 2020**
+### DHA Siamwalla Ltd. (Nov 2018 - Aug 2020)
 
-- Mini games web application (Magento 2)
-- Shipping method & Payment gateway extension (Magento 2)
-- Seller system web Application (Laravel & Vue)
+- **Software Engineer (Magento 2, PHP & Node)**
+  - Lead of web application project Membership system & Admin to manage order, promotion, redeem point for wholesale
+  customer. (Laravel, VueJS)
+  - Research and customize Module and developed Mini games support for improve purchase quantity of customer .
+  (Magento 2)
+  - Developed plugins API Shipping method, Payment gateway and integration data to another project. (Magento 2)
 
-### Freelance Team Lead
-**Apr 2018-Oct 2018**
-
+### Freelance Team Lead (Apr 2018 - Oct 2018)
+<!-- TODO: -->
 - Web Applications (Laravel,Yii,Vue)
 - Content Management System (Wordpress)
 
-### Software Engineer Team Lead (PHP), Technologyland Co.,Ltd.
-**Apr 2013 - Mar 2018**
+### Technologyland Co.,Ltd. (Apr 2013 - Mar 2018)
 
-- Database Administrator (MySQL)
+- **Software Engineer Team Lead (PHP)**
+<!-- TODO: -->
 - Web applications Team lead (Yii)
-    - E-office
-    - Customer Relationship Management
+  - E-office
+  - Customer Relationship Management
 - Linux System Administrator
-    - Server Monitoring
-    - Email sender tracking & firewall
+  - Server Monitoring
+  - Email sender tracking & firewall
+- **Database Administrator & Engineer**
+  - Develop &  (MySQL,Firebase)
 
-### Software Developer (PHP), Thaiorchids Co.,Ltd.
-**Jul 2012 - Mar 1013**
+### Thaiorchids Co.,Ltd. (Jul 2012 - Mar 1013)
 
-- Manage & develop back-office web applications (Fullstack) on PHP
+- **Software Engineer (Fullstack PHP)**
+  - Manage & develop back-office web applications, easy to used for officers.
     - CCTV Monitoring
     - Products Management
     - Approves Management
-
 
 ## Certificates
 
@@ -92,8 +110,8 @@ Software Engineer | Data Engineer | Data Science
 - [Big Data Analytics Certificate (SIT KMUTT ,Thailand), Apr 2020](02-big-data-certificate/)
 - [System Analyst  Certificate (SIPA,Thailand), Jun 2015](01-system-analyst-certificate/)
 
-
 ## Skills
+
 | Programming                                | Level                          |
 | ------------------------------------------ | ------------------------------ |
 | HTML                                       | :star::star::star::star::star: |
@@ -111,8 +129,6 @@ Software Engineer | Data Engineer | Data Science
 | --------------------------------- | ------------------ |
 | Relational (MySQL)                | :star::star::star: |
 | Non-Relational (MongoDB,Firebase) | :star::star:       |
-
-
 
 | DevOps                                           | Level                    |
 | ------------------------------------------------ | ------------------------ |
