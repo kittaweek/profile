@@ -29,6 +29,12 @@ Software Engineer | Data Engineer | Data Science
 
 ## Work Experiences
 
+### Baania Co.,Ltd. (May 2022 - Current)
+- **Machine Learning Operations**
+  - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations. 
+  - Consult Data Science team to develop & improve quality code for easy to implement.
+
+
 ### Baania Co.,Ltd. (Oct 2022 - Apr 2024)
 
 - **Data Engineer & Data Science (Python)**
@@ -75,20 +81,25 @@ Software Engineer | Data Engineer | Data Science
   - Developed plugins API Shipping method, Payment gateway and integration data to another project. (Magento 2)
 
 ### Freelance Team Lead (Apr 2018 - Oct 2018)
-<!-- TODO: -->
-- Web Applications (Laravel,Yii,Vue)
-- Content Management System (Wordpress)
+- **Project Manager & Software Engineer Team Lead**
+  - Consultant to customer by get requirement, find best solution of problem, estimate cost & timeline, develop project and deliver to customer.
+  - Manage Agile team for easy to develop project, delivery project on time schedule
+  - Consult Software Engineer tem to best practice for implement code
+  - Example projects
+    - Web Applications (Laravel,Yii,Vue)
+    - Content Management System (Wordpress)
 
 ### Technologyland Co.,Ltd. (Apr 2013 - Mar 2018)
-
 - **Software Engineer Team Lead (PHP)**
-<!-- TODO: -->
-- Web applications Team lead (Yii)
-  - E-office
-  - Customer Relationship Management
-- Linux System Administrator
-  - Server Monitoring
-  - Email sender tracking & firewall
+  - Manage team to develop project deliver to officers & customers.
+  - Discuss with stackholders to find problems and find best solution to solve problems
+  - Projects
+    - Web applications Team lead (Yii)
+      - E-office
+      - Customer Relationship Management
+    - Linux System Administrator
+      - Server Monitoring
+      - Email sender tracking & firewall
 - **Database Administrator & Engineer**
   - Develop &  (MySQL,Firebase)
 
@@ -130,9 +141,9 @@ Software Engineer | Data Engineer | Data Science
 | Relational (MySQL)                | :star::star::star: |
 | Non-Relational (MongoDB,Firebase) | :star::star:       |
 
-| DevOps                                           | Level                    |
-| ------------------------------------------------ | ------------------------ |
-| Linux operating system                           | :star::star::star::star: |
-| Version control (Git)                            | :star::star::star::star: |
-| Container Platforms(Docker,Kubernetes)           | :star::star:             |
-| CI/CD (Google Cloud,Bitbucket,SonarQube,Jenkins) | :star:                   |
+| DevOps                                           | Level                          |
+| ------------------------------------------------ | ------------------------------ |
+| Version control (Git)                            | :star::star::star::star::star: |
+| Linux operating system                           | :star::star::star::star:       |
+| Container Platforms(Docker,Kubernetes)           | :star::star::star:             |
+| CI/CD (Google Cloud,Bitbucket,SonarQube,Jenkins) | :star::star:                   |
