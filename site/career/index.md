@@ -29,9 +29,9 @@ Software Engineer | Data Engineer | Data Science
 
 ## Work Experiences
 
-### Baania Co.,Ltd. (May 2022 - Current)
+### Data Café Co., Ltd. (May 2022 - Current)
 - **Machine Learning Operations**
-  - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations. 
+  - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations.
   - Consult Data Science team to develop & improve quality code for easy to implement.
 
 
