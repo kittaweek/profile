@@ -29,7 +29,8 @@ Software Engineer | Data Engineer | Data Science
 
 ## Work Experiences
 
-### Data Cafe Co., Ltd. (May 2022 - Current)
+### Data Café Co., Ltd. (May 2022 - Current)
+
 - **Machine Learning Operations**
   - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations.
   - Consult Data Science team to develop & improve quality code for easy to implement.
@@ -81,6 +82,7 @@ Software Engineer | Data Engineer | Data Science
   - Developed plugins API Shipping method, Payment gateway and integration data to another project. (Magento 2)
 
 ### Freelance Team Lead (Apr 2018 - Oct 2018)
+
 - **Project Manager & Software Engineer Team Lead**
   - Consultant to customer by get requirement, find best solution of problem, estimate cost & timeline, develop project and deliver to customer.
   - Manage Agile team for easy to develop project, delivery project on time schedule
@@ -90,6 +92,7 @@ Software Engineer | Data Engineer | Data Science
     - Content Management System (Wordpress)
 
 ### Technologyland Co.,Ltd. (Apr 2013 - Mar 2018)
+
 - **Software Engineer Team Lead (PHP)**
   - Manage team to develop project deliver to officers & customers.
   - Discuss with stakeholders to find problems and find best solution to solve problems.
