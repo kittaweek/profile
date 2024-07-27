@@ -32,7 +32,6 @@ features:
     link: https://www.cloudskillsboost.google/public_profiles/cdd5d465-cc8a-49ab-9368-9be21c2d8569
   - icon: 
       src: /assets/coursera.svg
-      height: 200px
       alt: Cousera
     title: Cousera certificates
     link: https://www.coursera.org/user/8ce46ab5a5f2b84264bbedb51bfac4fd
