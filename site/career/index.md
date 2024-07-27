@@ -92,7 +92,7 @@ Software Engineer | Data Engineer | Data Science
 ### Technologyland Co.,Ltd. (Apr 2013 - Mar 2018)
 - **Software Engineer Team Lead (PHP)**
   - Manage team to develop project deliver to officers & customers.
-  - Discuss with stackholders to find problems and find best solution to solve problems
+  - Discuss with stakeholders to find problems and find best solution to solve problems.
   - Projects
     - Web applications Team lead (Yii)
       - E-office
