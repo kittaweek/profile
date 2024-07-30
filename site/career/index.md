@@ -34,6 +34,7 @@ Software Engineer | Data Engineer | Data Science
 - **Machine Learning Operations**
   - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations.
   - Consult Data Science team to develop & improve quality code for easy to implement.
+  - Planning Task & Timeline to develop & deliver projects.
 
 
 ### Baania Co.,Ltd. (Oct 2022 - Apr 2024)
@@ -48,14 +49,17 @@ Software Engineer | Data Engineer | Data Science
     - Delivers data to end users for real estate entrepreneurs.
   - Research and estimate possibility to open new sector of data by confidence and accuracy for increase sector of real estate information services.
   - Develop process of data pipeline model for automate data workflow. (Jupyter, Dagster, Spark, Polars, Pandas)
-- **Software Engineer (VueJS)**
+- **Senior Software Engineer (VueJS)**
   - Developed & implement web application support for user friendly and improve quantity of visitors.
   - Refactor structure code from 6,000 rows to less than 1,000 rows for easy to implement.
 
 ### Soilfish Co., Ltd. (Mar 2021 - Oct 2022)
 
 - **Project Manager**
-  - Manage Agile team and delivers project to customer.
+  - Discuss & get requirement from stakeholders and find best solution to solve problem.
+  - Manage task from requirements, estimate timeline and assign task to team members.
+  - Manage Agile team and ensure that all projects are delivered on-time.
+
 - **Senior Software Engineer (Node,React)**
   - Developed web application support for user requirement.(React,NestJS, Laravel, Wordpress)
     - Content Management System. (CMS)
@@ -75,18 +79,20 @@ Software Engineer | Data Engineer | Data Science
 ### DHA Siamwalla Ltd. (Nov 2018 - Aug 2020)
 
 - **Software Engineer (Magento 2, PHP & Node)**
+  - Get requirement from stakeholders and discuss team lead to  find solution for solving.
   - Lead of web application project Membership system & Admin to manage order, promotion, redeem point for wholesale
   customer. (Laravel, VueJS)
   - Research and customize Module and developed Mini games support for improve purchase quantity of customer .
   (Magento 2)
   - Developed plugins API Shipping method, Payment gateway and integration data to another project. (Magento 2)
 
+
 ### Freelance Team Lead (Apr 2018 - Oct 2018)
 
 - **Project Manager & Software Engineer Team Lead**
   - Consultant to customer by get requirement, find best solution of problem, estimate cost & timeline, develop project and deliver to customer.
-  - Manage Agile team for easy to develop project, delivery project on time schedule
-  - Consult Software Engineer team to find best practice for implement code
+  - Manage Agile team for easy to develop project, delivery project on time schedule.
+  - Consult Software Engineer team to find best practice for implement code.
   - Example projects
     - Web Applications (Laravel,Yii,Vue)
     - Content Management System (Wordpress)
@@ -95,16 +101,17 @@ Software Engineer | Data Engineer | Data Science
 
 - **Software Engineer Team Lead (PHP)**
   - Manage team to develop project deliver to officers & customers.
-  - Discuss with stakeholders to find problems and find best solution to solve problems.
-  - Projects
+  - Research and discuss with stakeholders to find best solution for solve problems or improve to manage organization.
+  - Manage Projects
     - Web applications Team lead (Yii)
       - E-office
       - Customer Relationship Management
     - Linux System Administrator
       - Server Monitoring
       - Email sender tracking & firewall
-- **Database Administrator & Engineer**
-  - Develop &  (MySQL,Firebase)
+- **Database Administrator & Engineer (MySQL,Firebase)**
+  - Building database systems of high availability and quality depending on each end user’s specialized role.
+  - Designing and implementing databases in accordance to end users information needs and views.
 
 ### Thaiorchids Co.,Ltd. (Jul 2012 - Mar 1013)
 
@@ -151,3 +158,8 @@ Software Engineer | Data Engineer | Data Science
 | Linux operating system                           | :star::star::star::star:       |
 | Container Platforms(Docker,Kubernetes)           | :star::star::star:             |
 | CI/CD (Google Cloud,Bitbucket,SonarQube,Jenkins) | :star::star:                   |
+
+| Cloud Computing       | Level        |
+| --------------------- | ------------ |
+| Google Cloud Platform | :star::star: |
+| Microsoft Azure       | :star:       |
