@@ -29,7 +29,7 @@ Software Engineer | Data Engineer | Data Science
 
 ## Work Experiences
 
-### Data Café Co., Ltd. (May 2022 - Current)
+### Data Café Co., Ltd. (May 2024 - Current)
 
 - **Machine Learning Operations**
   - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations.
