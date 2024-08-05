@@ -34,7 +34,7 @@ Software Engineer | Data Engineer | Data Science
 - **Machine Learning Operations**
   - Deploy, manage, and optimize machine learning models in production environments, ensuring smooth integration and efficient operations.
   - Consult Data Science team to develop & improve quality code for easy to implement.
-  - Planning Task & Timeline to develop & deliver projects.
+  - Planning Task & Timeline to develop & deliver projects on time schedule.
 
 
 ### Baania Co.,Ltd. (Oct 2022 - Apr 2024)
@@ -49,6 +49,7 @@ Software Engineer | Data Engineer | Data Science
     - Delivers data to end users for real estate entrepreneurs.
   - Research and estimate possibility to open new sector of data by confidence and accuracy for increase sector of real estate information services.
   - Develop process of data pipeline model for automate data workflow. (Jupyter, Dagster, Spark, Polars, Pandas)
+
 - **Senior Software Engineer (VueJS)**
   - Developed & implement web application support for user friendly and improve quantity of visitors.
   - Refactor structure code from 6,000 rows to less than 1,000 rows for easy to implement.
@@ -58,7 +59,7 @@ Software Engineer | Data Engineer | Data Science
 - **Project Manager**
   - Discuss & get requirement from stakeholders and find best solution to solve problem.
   - Manage task from requirements, estimate timeline and assign task to team members.
-  - Manage Agile team and ensure that all projects are delivered on-time.
+  - Manage multiple projects(3 projects) in time and manage Agile team and ensure that all projects are delivered on-time.
 
 - **Senior Software Engineer (Node,React)**
   - Developed web application support for user requirement.(React,NestJS, Laravel, Wordpress)
@@ -74,41 +75,51 @@ Software Engineer | Data Engineer | Data Science
   - Developed administrator web application easy to manage real estate for seller, agent and entrepreneur.
     - Customer Relationship Management
     - Property Management System
-  - Developed & maintainance real estate advertising tools support for seller, agent and entrepreneur by line api and email notifications.
+  - Developed & maintenance real estate advertising tools support for seller, agent and entrepreneur by line api and email notifications.
 
 ### DHA Siamwalla Ltd. (Nov 2018 - Aug 2020)
 
-- **Software Engineer (Magento 2, PHP & Node)**
-  - Get requirement from stakeholders and discuss team lead to  find solution for solving.
-  - Lead of web application project Membership system & Admin to manage order, promotion, redeem point for wholesale
-  customer. (Laravel, VueJS)
-  - Research and customize Module and developed Mini games support for improve purchase quantity of customer .
-  (Magento 2)
-  - Developed plugins API Shipping method, Payment gateway and integration data to another project. (Magento 2)
+- **Senior Software Engineer (Magento 2, Laravel, Vue)**
+  - Get requirement from stakeholders and discuss with team lead to find solution for solving.
+  - Lead of web application project Membership system & Admin, support all marketplace store to manage order, promotion, redeem point for wholesale customer. (Laravel, VueJS)
+  - Developed, research and customize marketplace web application (3 websites) for improve engagement, purchase quantity of customer.(Magento 2)
+    - Developed & customize mini games Module.
+    - Customize promotions & packages.
+    - Developed plugins API shipping method, payment gateway & integrate to vendor services.
+    - Develop, customize & integration data to third-party systems in organizations(Accounting system,Multiple Warehouse Management System).
+  - Customize all web page of organization, support requirement from project owners.(5 websites)
 
 
-### Freelance Team Lead (Apr 2018 - Oct 2018)
+### Freelance (Apr 2018 - Oct 2018)
 
 - **Project Manager & Software Engineer Team Lead**
   - Consultant to customer by get requirement, find best solution of problem, estimate cost & timeline, develop project and deliver to customer.
-  - Manage Agile team for easy to develop project, delivery project on time schedule.
-  - Consult Software Engineer team to find best practice for implement code.
+  - Use tools and agile methodology to manage multiple project in organization(8 officers),easy to manage project and delivery project on time schedule.
+  - Consult Software Engineer team (5 officers) to improve skill, productivity and find best practice to implement project.
   - Example projects
     - Web Applications (Laravel,Yii,Vue)
     - Content Management System (Wordpress)
 
 ### Technologyland Co.,Ltd. (Apr 2013 - Mar 2018)
 
-- **Software Engineer Team Lead (PHP)**
-  - Manage team to develop project deliver to officers & customers.
+- **Software Engineer(PHP,Yii,Linux)**
+  - Startup to developed Customer Relationship Management (CRM) for customer service team, easy to manage customer such as quotations, invoices, billings, PDF generators, send emails, notification expires, ticket managements, etc.
+  - Developed webmail applications, email tools on web browser by organization and customers.
+  - Developed email server managements for IT team, easy to manage email by officers and customers.
+    - Install,transfer, enabled & disabled email system by customer.
+    - Create, read, update, delete email account.
+  - Developed Server Manage system & schedule applications for IT team to monitoring & manage all server in organization.
+    - Server monitoring, monitor bandwidth & disk usage, services status and email usage.
+    - Health check & notifications when service or server downtime.
+    - Backup system management & monitoring.
+    - Email connection & transaction monitoring by ISP, connection type, location to check & estimate security of email server.
+    - Firewalls management to blacklisted & whitelisted connection by country and ip address for improve security of email server.
+- **Team Lead**
   - Research and discuss with stakeholders to find best solution for solve problems or improve to manage organization.
-  - Manage Projects
-    - Web applications Team lead (Yii)
-      - E-office
-      - Customer Relationship Management
-    - Linux System Administrator
-      - Server Monitoring
-      - Email sender tracking & firewall
+  - Use project management tools, menage task for software engineer team and get requirement from officers.
+  - Use Git for easy to manage multiple projects.
+  - Mentor software engineer team (5 Officers) to improve skill and productivity.
+
 - **Database Administrator & Engineer (MySQL,Firebase)**
   - Building database systems of high availability and quality depending on each end user’s specialized role.
   - Designing and implementing databases in accordance to end users information needs and views.
