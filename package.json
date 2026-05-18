@@ -8,6 +8,7 @@
     "email": "kittawee9469@gmail.com"
   },
   "license": "MIT",
+  "packageManager": "yarn@1.22.22",
   "repository": "https://github.com/kittaweek/profile.git/",
   "scripts": {
     "dev": "vitepress dev site --port 8080",
