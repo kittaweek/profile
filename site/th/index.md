@@ -10,9 +10,6 @@ hero:
       text: เกี่ยวกับ
       link: /th/about/
     - theme: alt
-      text: เส้นทาง
-      link: /th/career/
-    - theme: alt
       text: ผลงาน
       link: /th/portfolio/
 

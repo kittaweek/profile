@@ -3,7 +3,7 @@ sidebar: false
 aside: false
 prev:
   text: 'Career-Certificates'
-  link: '/career/#certificates'
+  link: '/about/#certificates'
 ---
 # Big Data Analytics Certificate
 ### (SIT KMUTT ,Thailand), Apr 2020

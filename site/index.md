@@ -11,8 +11,8 @@ hero:
       text: About
       link: /about/
     - theme: alt
-      text: Career
-      link: /career/
+      text: Portfolio
+      link: /portfolio/
 
 features:
   - icon:

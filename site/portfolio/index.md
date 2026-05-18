@@ -13,6 +13,3 @@ description: "Case studies — projects built, problems solved, and lessons lear
 # Portfolio
 
 ## Coming soon
-
-Case studies in the pipeline — each will follow the format:
-*Problem → Approach → Result → Stack → Learnings*

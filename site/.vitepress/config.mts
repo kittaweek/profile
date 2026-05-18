@@ -29,7 +29,6 @@ export default defineConfig({
         nav: [
           { text: 'หน้าแรก', link: '/th/' },
           { text: 'เกี่ยวกับ', link: '/th/about/' },
-          { text: 'เส้นทาง', link: '/th/career/' },
           { text: 'ผลงาน', link: '/th/portfolio/' },
           { text: 'บทความ', link: '/th/articles/' }
         ]
@@ -53,7 +52,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
-      { text: 'Career', link: '/career/' },
       { text: 'Portfolio', link: '/portfolio/' },
       { text: 'Articles', link: '/articles/' }
     ],

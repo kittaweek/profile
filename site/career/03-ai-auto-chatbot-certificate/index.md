@@ -3,7 +3,7 @@ sidebar: false
 aside: false
 prev:
   text: 'Career-Certificates'
-  link: '/career/#certificates'
+  link: '/about/#certificates'
 ---
 # AI Auto Chatbot Certificate
 ### (SPU,Thailand), Sep 2020
