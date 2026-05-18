@@ -26,8 +26,8 @@ My background is full-stack engineering. I came up through PHP, moved into data 
 
 ## What I use
 
-**Daily** — Python, TypeScript, GCP, MySQL  
-**Comfortable** — Vue, NestJS, Docker, Spark, Dagster  
+**Daily** — Python, TypeScript, GCP, MySQL
+**Comfortable** — Vue, NestJS, Docker, Spark, Dagster
 **Familiar** — Magento, WordPress, Azure
 
 ## Outside of work

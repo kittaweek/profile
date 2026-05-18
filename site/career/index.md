@@ -36,13 +36,13 @@ Ten years of shipping things: web apps, data pipelines, ML systems. Currently at
 
 ## Skills
 
-**Daily** — Python, TypeScript, GCP, MySQL  
-**Comfortable** — Vue, NestJS, Docker, Spark, Dagster, PHP, Laravel  
+**Daily** — Python, TypeScript, GCP, MySQL
+**Comfortable** — Vue, NestJS, Docker, Spark, Dagster, PHP, Laravel
 **Familiar** — Magento 2, WordPress, Azure, React
 
 ## Education
 
-**B.Sc. Media Technology** — KMUTT (2009–2012)  
+**B.Sc. Media Technology** — KMUTT (2009–2012)
 Thesis: License plate detection using template matching · Published at ICCCT'2012
 
 ## Certificates

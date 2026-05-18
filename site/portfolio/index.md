@@ -14,5 +14,5 @@ description: "Case studies — projects built, problems solved, and lessons lear
 
 ## Coming soon
 
-Case studies in the pipeline — each will follow the format:  
+Case studies in the pipeline — each will follow the format:
 *Problem → Approach → Result → Stack → Learnings*

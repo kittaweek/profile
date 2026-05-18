@@ -11,7 +11,7 @@ description: "บทความและบันทึกเรื่อง so
 
 บันทึกและบทความเรื่อง software engineering, data และระบบที่ build มา
 
-## Coming soon
+## เร็วๆ นี้
 
 บทความที่กำลังจะมา:
 
