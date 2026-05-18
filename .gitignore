@@ -130,8 +130,10 @@ site/.vitepress/cache
 # Docs (work in progress — not ready to publish)
 site/docs/
 
-# Portfolio draft
+# Drafts (not ready to publish)
 site/portfolio/index-draft.md
+site/portfolio/_index-draft.md
+**/about-career-unified.md
 
 # Mac OS X
 .DS_Store
