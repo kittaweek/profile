@@ -1,39 +1,69 @@
 import { defineConfig } from 'vitepress'
+import tabsPlugin from '@red-asuka/vitepress-plugin-tabs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Kittawee Kongpan (Post)",
-  description: "Software Engineer | Data Engineer | Data Science",
+  title: "Devsiam",
+  description: "Kittawee Kongpan — Software / Data Engineer. Essays, work, and a public knowledge base.",
+
+  cleanUrls: true,
+
+  head: [
+    ['script', { defer: '', 'data-domain': 'devsiam.com', src: 'https://plausible.io/js/script.js' }]
+  ],
+
+  sitemap: {
+    hostname: 'https://devsiam.com'
+  },
+
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en-US',
+    },
+    th: {
+      label: 'ไทย',
+      lang: 'th',
+      link: '/th/',
+      themeConfig: {
+        nav: [
+          { text: 'หน้าแรก', link: '/th/' },
+          { text: 'เกี่ยวกับ', link: '/th/about/' },
+          { text: 'ผลงาน', link: '/th/portfolio/' },
+          { text: 'บทความ', link: '/th/articles/' }
+        ]
+      }
+    }
+  },
+
+  markdown: {
+    config: (md) => {
+      tabsPlugin(md)
+    },
+  },
+
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: '/assets/logo.svg',
+
+    search: {
+      provider: 'local'
+    },
+
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'About', link: '/about/' },
+      { text: 'Portfolio', link: '/portfolio/' },
+      { text: 'Articles', link: '/articles/' }
+    ],
+
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Kittawee Kongpan | © 2023-present | Powered by <a href="https://vitepress.dev" target="_blank">VitePress</a>'
     },
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'About', link: '/about/' },
-      { text: 'Career', link: '/career/' },
-      { text: 'Portfolio', link: '/portfolio/' },
-      { text: 'Archive', link: '/archive/' }
-    ],
-
-    // sidebar: [
-    //   {
-    //     text: 'Examples',
-    //     items: [
-    //       { text: 'Markdown Examples', link: '/markdown-examples' },
-    //       { text: 'Runtime API Examples', link: '/api-examples' }
-    //     ]
-    //   }
-    // ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kittaweek' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/kittawee-kongpan-360887249/' },
-      // { icon: 'facebook', link: 'https://www.facebook.com/P0sTMaN' },
-      // { icon: 'instagram', link: 'https://www.instagram.com/p0st_man/' },
-      
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/kittawee-kongpan-360887249/' }
     ]
   }
 })
