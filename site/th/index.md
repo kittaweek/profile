@@ -1,18 +1,20 @@
 ---
 layout: home
-description: "Kittawee Kongpan (Post) — Software / Data Engineer. Building data systems and web apps. Public knowledge base at /docs/."
 
 hero:
   name: "Devsiam"
-  text: "Software / Data Engineer"
-  tagline: "Building data systems and web apps that help small teams ship like bigger ones."
+  text: "สร้าง data systems และ web apps"
+  tagline: "ที่ช่วยให้ทีมเล็กส่งงานได้เร็วเหมือนทีมใหญ่"
   actions:
     - theme: brand
-      text: About
-      link: /about/
+      text: เกี่ยวกับ
+      link: /th/about/
     - theme: alt
-      text: Career
-      link: /career/
+      text: เส้นทาง
+      link: /th/career/
+    - theme: alt
+      text: ผลงาน
+      link: /th/portfolio/
 
 features:
   - icon:
@@ -23,7 +25,7 @@ features:
   - icon:
       src: /assets/github.svg
       alt: Github
-    title: GitHub
+    title: Github
     link: https://github.com/kittaweek
   - icon:
       src: /assets/google-cloud.svg
@@ -33,6 +35,6 @@ features:
   - icon:
       src: /assets/coursera.svg
       alt: Coursera
-    title: Coursera Certificates
+    title: ใบรับรอง Coursera
     link: https://www.coursera.org/user/8ce46ab5a5f2b84264bbedb51bfac4fd
 ---

@@ -1,10 +1,11 @@
 ---
-sidebar: false
-aside: false
-prev:
-  text: 'Homepage'
-  link: '/'
+layout: page
+head:
+  - - meta
+    - http-equiv: refresh
+      content: "0; url=/articles/"
 ---
+
 # Archive
 
-## Coming soon
+This section has moved to [/articles/](/articles/).

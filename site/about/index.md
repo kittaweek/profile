@@ -7,17 +7,34 @@ prev:
 next:
   text: 'Career'
   link: '/career/'
+description: "Software / Data engineer building data systems and web apps that help small teams ship like bigger ones."
 ---
+
 # About
 
-Currently, I serve as a Data Engineer & Data Scientist at Baania Co., Ltd., where my responsibilities include the management and analysis of all real estate data in Thailand. I find immense satisfaction in this role, given its enjoyable and challenging nature.
+I build data systems and web apps that help small teams move fast without breaking things.
 
-In my previous role, I worked as a software engineer, focusing on developing web applications tailored to customer requirements. Over several years, I honed my skills in PHP, WordPress, Magento 2, Node.js, TypeScript, and proficiently operated on the Linux operating system.
+Currently at **Connex Property**. Before that, I spent six months at Data Café running ML Ops in production — deploying, monitoring, and optimising models end-to-end.
 
-I possess strong skills in problem-solving, logical reasoning, maintaining a positive attitude, and adopting an open mindset. 
+My background is full-stack engineering. I came up through PHP, moved into data work, then into the ML side of things. Ten-plus years of building things that actually have to run in production.
 
-I thrive on challenges, value flexibility, and actively pursue continual improvement.
+## How I think
 
-During my leisure time, I frequently engage in developing projects that align with my interests or seek additional courses to enhance my skill set. 
+- **Boring tech wins** — the stack your team already understands beats the trending one every time
+- **Data > opinion** — but good data starts with a good question
+- **Document or it didn't happen** — unwritten knowledge is just debt
 
-Moreover, I take pleasure in visiting coffee shops, listening to podcasts, running, camping, playing computer games, and indulging in board games.
+## What I use
+
+**Daily** — Python, TypeScript, GCP, MySQL  
+**Comfortable** — Vue, NestJS, Docker, Spark, Dagster  
+**Familiar** — Magento, WordPress, Azure
+
+## Outside of work
+
+Coffee shops, podcasts, running, camping, board games.
+
+## Find me
+
+- [GitHub](https://github.com/kittaweek)
+- [LinkedIn](https://www.linkedin.com/in/kittawee-kongpan-360887249/)

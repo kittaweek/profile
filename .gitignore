@@ -127,5 +127,11 @@ dist
 site/.vitepress/dist
 site/.vitepress/cache
 
+# Docs (work in progress — not ready to publish)
+site/docs/
+
+# Portfolio draft
+site/portfolio/index-draft.md
+
 # Mac OS X
 .DS_Store
