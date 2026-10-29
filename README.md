@@ -1,12 +1,12 @@
 # Devsiam
 
 > Personal brand site of **Kittawee Kongpan (Post)**
-> Live at **[devsiam.com](https://devsiam.com)** — built with [VitePress](https://vitepress.dev)
+> Live at **[kittaweek.github.io](https://kittaweek.github.io)** — built with [VitePress](https://vitepress.dev)
 
 | Path | Purpose |
 | --- | --- |
-| `devsiam.com/` | Brand site — About, Career, Portfolio, Articles |
-| `devsiam.com/th/` | ภาษาไทย |
+| `kittaweek.github.io/` | Brand site — About, Career, Portfolio, Articles |
+| `kittaweek.github.io/th/` | ภาษาไทย |
 
 ---
 
@@ -27,8 +27,7 @@
 │   └── .vitepress/
 │       ├── config.mts        Site config (nav, i18n, sitemap)
 │       └── theme/            Custom theme (orange brand color)
-├── package.json
-└── CNAME                     devsiam.com
+└── package.json
 ```
 
 ---
@@ -113,9 +112,7 @@ date: 2026-05-18
 
 ## Deployment
 
-Deployed via GitHub Pages (`.github/workflows/`).
-
-CNAME → `devsiam.com`
+Deployed via GitHub Pages (`.github/workflows/`) at `https://kittaweek.github.io`.
 
 ---
 

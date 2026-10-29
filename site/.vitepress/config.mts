@@ -9,11 +9,11 @@ export default defineConfig({
   cleanUrls: true,
 
   head: [
-    ['script', { defer: '', 'data-domain': 'devsiam.com', src: 'https://plausible.io/js/script.js' }]
+    ['script', { defer: '', 'data-domain': 'kittaweek.github.io', src: 'https://plausible.io/js/script.js' }]
   ],
 
   sitemap: {
-    hostname: 'https://devsiam.com'
+    hostname: 'https://kittaweek.github.io'
   },
 
   locales: {

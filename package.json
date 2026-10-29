@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "packageManager": "yarn@1.22.22",
-  "repository": "https://github.com/kittaweek/profile.git/",
+  "repository": "https://github.com/kittaweek/kittaweek.github.io.git",
   "scripts": {
     "dev": "vitepress dev site --port 8080",
     "build": "vitepress build site",
@@ -22,6 +22,10 @@
   },
   "resolutions": {
     "esbuild": "^0.25.0",
+    "markdown-it": "^14.1.1",
+    "vite": "^6.4.2"
+  },
+  "dependencies": {
     "markdown-it": "^14.1.1",
     "vite": "^6.4.2"
   }
